@@ -1,6 +1,4 @@
-
-Calculating rank score of users on the Facebook group with igraph library
-
+[blog post](https://medium.com/@kiulam/pagerank-algorithm-on-humans-mention-network-a69e6923c1e2)
 ### HOW TO USE 
 - Clone the repo 
 
