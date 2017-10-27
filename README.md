@@ -1,2 +1,2 @@
-# igraph-pageRank-example
-calculating rank score of users on the Facebook group with igraph library
+
+Cxalculating rank score of users on the Facebook group with igraph library
